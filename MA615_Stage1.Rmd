@@ -135,7 +135,7 @@ strawb_organic %<>% rename(Markets = items)
 
 strawb_organic %<>% select(Year, State,Markets, units, Value,`CV (%)`)
 ```
-
+##Above used Haviland's work
 ##Clean Strawb_non_organic
 
 ```{r}
